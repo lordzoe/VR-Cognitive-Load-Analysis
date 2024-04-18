@@ -1,0 +1,13 @@
+FeedbackNumber, FeedbackScore, TimeShown, TimeDifference, ActivePhase, StimulusQuestion
+1,3,665.0458,7.868347,Tutorial,BaselineAquisition
+2,1,687.7747,5.15033,Tutorial,FindX
+3,7,716.7725,2.896118,Tutorial,McDonalds
+4,3,1026.5,6.020569,Rest,Control
+5,3,1101.119,2.888672,Experimental,Control
+6,4,1151.964,2.191284,Experimental,Control
+7,4,1198.544,4.209717,Experimental,Control
+8,4,1250.583,3.083252,Experimental,Control
+9,6,1322.773,2.107788,Experimental,Control
+10,6,1393.026,3.374023,Experimental,Control
+11,7,1458.504,1.737305,Experimental,Control
+12,8,1534.109,2.485718,Experimental,Control

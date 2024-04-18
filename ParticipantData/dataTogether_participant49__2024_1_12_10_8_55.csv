@@ -1,0 +1,45 @@
+Event Time , Event Type, Extra Info
+918.3868,Feedback,FeedbackScore: 3
+939.4686,Feedback,FeedbackScore: 1
+968.4152,Feedback,FeedbackScore: 5
+1279.944,Feedback,FeedbackScore: 3
+1335.676,Answer,Correct CurrentTrial 0 StimumlusName _A1_CI_NSI_R180x TimeoutCounter 0
+1351.162,Answer,Correct CurrentTrial 1 StimumlusName _B1_CI_NSI_R0 TimeoutCounter 0
+1371.176,Answer,Incorrect CurrentTrial 2 StimumlusName _A2_AC_SI_R180z TimeoutCounter 0
+1380.919,Answer,Correct CurrentTrial 3 StimumlusName _B2_AC_SI_R180x TimeoutCounter 0
+1389.072,Feedback,FeedbackScore: 4
+1418.426,Answer,Correct CurrentTrial 4 StimumlusName _A3_CI_NSI_R120z TimeoutCounter 0
+1428.049,Answer,Incorrect CurrentTrial 5 StimumlusName _B3_AC_SI_R180y TimeoutCounter 0
+1437.615,Answer,Correct CurrentTrial 6 StimumlusName _A4_AC_SI_R180x TimeoutCounter 0
+1455.097,Answer,Correct CurrentTrial 7 StimumlusName _B4_C_SI_R180y TimeoutCounter 0
+1461.323,Feedback,FeedbackScore: 4
+1478.74,Answer,Correct CurrentTrial 8 StimumlusName _A5_AC_SI_R180y TimeoutCounter 0
+1506.763,Answer,Correct CurrentTrial 9 StimumlusName _B5_C_SI_R120z TimeoutCounter 0
+1527.265,Answer,Incorrect CurrentTrial 10 StimumlusName _A6_AC_SI_R180z TimeoutCounter 0
+1540.11,Answer,Incorrect CurrentTrial 11 StimumlusName _B6_CI_NSI_R180x TimeoutCounter 0
+1544.34,Feedback,FeedbackScore: 5
+1555.916,Answer,Incorrect CurrentTrial 12 StimumlusName _A7_C_NSI_R180z TimeoutCounter 0
+1579.24,Answer,Correct CurrentTrial 13 StimumlusName _B7_AC_SI_R90z TimeoutCounter 0
+1610.515,Answer,Correct CurrentTrial 14 StimumlusName _A8_C_SI_R180y TimeoutCounter 0
+1620.106,Answer,Correct CurrentTrial 15 StimumlusName _B8_AC_SI_R60z TimeoutCounter 0
+1626.694,Feedback,FeedbackScore: 4
+1652.559,Answer,Correct CurrentTrial 16 StimumlusName _A9_C_NSI_R180y TimeoutCounter 0
+1666.863,Answer,Correct CurrentTrial 17 StimumlusName _B9_C_NSI_R90z TimeoutCounter 0
+1678.567,Answer,Correct CurrentTrial 18 StimumlusName _A10_C_SI_R180x TimeoutCounter 0
+1702.908,Answer,Incorrect CurrentTrial 19 StimumlusName _B10_C_NSI_R180x TimeoutCounter 0
+1707.844,Feedback,FeedbackScore: 5
+1716.913,Answer,Correct CurrentTrial 20 StimumlusName _A11_AC_SI_R180y TimeoutCounter 0
+1735.522,Answer,Correct CurrentTrial 21 StimumlusName _B11_CI_NSI_R120z TimeoutCounter 0
+1749.194,Answer,Correct CurrentTrial 22 StimumlusName _A12_C_NSI_R180x TimeoutCounter 0
+1760.703,Answer,Incorrect CurrentTrial 23 StimumlusName _B12_C_SI_R180x TimeoutCounter 0
+1766.628,Feedback,FeedbackScore: 6
+1777.678,Answer,Correct CurrentTrial 24 StimumlusName _A13_CI_NSI_R180x TimeoutCounter 0
+1787.835,Answer,Correct CurrentTrial 25 StimumlusName _B13_AC_SI_R180x TimeoutCounter 0
+1800.715,Answer,Correct CurrentTrial 26 StimumlusName _A14_AC_SI_R180x TimeoutCounter 0
+1813.787,Answer,Correct CurrentTrial 27 StimumlusName _B14_AC_SI_R180y TimeoutCounter 0
+1818.009,Feedback,FeedbackScore: 4
+1835.645,Answer,Correct CurrentTrial 28 StimumlusName _A15_C_SI_R120z TimeoutCounter 0
+1849.203,Answer,Correct CurrentTrial 29 StimumlusName _B15_CI_NSI_R180y TimeoutCounter 0
+1864.082,Answer,Incorrect CurrentTrial 30 StimumlusName _A16_CI_NSI_R0 TimeoutCounter 0
+1879.956,Answer,Correct CurrentTrial 31 StimumlusName _B16_C_NSI_R180y TimeoutCounter 0
+1885.686,Feedback,FeedbackScore: 5
