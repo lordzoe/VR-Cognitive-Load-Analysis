@@ -1,5 +1,5 @@
-Timestamp, ActivePhase, EndActivePhase, CurrentTrial, StimulusQuestion
-0,Start,,99,
+Timestamp,ActivePhase,EndActivePhase,CurrentTrial,StimulusQuestion
+0.0,Start,,99,
 542.8527,,EndofStart,99,
 542.8527,Calibration,,99,
 549.9737,,EndofCalibration,99,

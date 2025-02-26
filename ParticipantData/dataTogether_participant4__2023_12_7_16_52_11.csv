@@ -1,4 +1,4 @@
-Event Time , Event Type, Extra Info
+Event Time,Event Type,Extra Info
 483.6696,Feedback,FeedbackScore: 5
 505.4549,Feedback,FeedbackScore: 1
 537.8475,Feedback,FeedbackScore: 7
@@ -40,6 +40,6 @@ Event Time , Event Type, Extra Info
 1685.329,Feedback,FeedbackScore: 7
 1713.29,Answer,Correct CurrentTrial 28 StimumlusName _A15_C_SI_R120z TimeoutCounter 0
 1749.057,Answer,Correct CurrentTrial 29 StimumlusName _B15_CI_NSI_R180y TimeoutCounter 0
-1784,Answer,Correct CurrentTrial 30 StimumlusName _A16_CI_NSI_R0 TimeoutCounter 0
+1784.0,Answer,Correct CurrentTrial 30 StimumlusName _A16_CI_NSI_R0 TimeoutCounter 0
 1796.443,Answer,Correct CurrentTrial 31 StimumlusName _B16_C_NSI_R180y TimeoutCounter 0
 1800.708,Feedback,FeedbackScore: 8

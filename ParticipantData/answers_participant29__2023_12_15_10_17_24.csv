@@ -1,4 +1,4 @@
-TimeShown, TimeAnswered, TimeDiff, IsCorrect, CurrentTrial, StimulusQuestion, TimeoutCounter
+TimeShown,TimeAnswered,TimeDiff,IsCorrect,CurrentTrial,StimulusQuestion,TimeoutCounter
 1034.68,1066.839,32.15918,True,0,_A1_CI_NSI_R180x,0
 1068.884,1095.691,26.80676,True,1,_B1_CI_NSI_R0,0
 1097.726,1122.801,25.07434,True,2,_A2_AC_SI_R180z,0

@@ -1,4 +1,4 @@
-TimeShown, TimeAnswered, TimeDiff, IsCorrect, CurrentTrial, StimulusQuestion, TimeoutCounter
+TimeShown,TimeAnswered,TimeDiff,IsCorrect,CurrentTrial,StimulusQuestion,TimeoutCounter
 1178.458,1224.608,46.15002,True,0,_A1_CI_NSI_R180x,0
 1226.651,1241.556,14.90491,True,1,_B1_CI_NSI_R0,0
 1243.599,1258.534,14.93457,True,2,_A2_AC_SI_R180z,0
@@ -20,7 +20,7 @@ TimeShown, TimeAnswered, TimeDiff, IsCorrect, CurrentTrial, StimulusQuestion, Ti
 1526.287,1539.959,13.67236,True,18,_A10_C_SI_R180x,0
 1542.007,1564.359,22.35229,False,19,_B10_C_NSI_R180x,0
 1580.917,1593.795,12.87732,True,20,_A11_AC_SI_R180y,0
-1595.877,1606,10.12268,True,21,_B11_CI_NSI_R120z,0
+1595.877,1606.0,10.12268,True,21,_B11_CI_NSI_R120z,0
 1608.099,1621.347,13.24841,True,22,_A12_C_NSI_R180x,0
 1623.398,1639.563,16.16504,True,23,_B12_C_SI_R180x,0
 1648.164,1660.481,12.31726,True,24,_A13_CI_NSI_R180x,0
