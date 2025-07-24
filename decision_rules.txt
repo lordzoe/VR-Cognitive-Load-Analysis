@@ -1,0 +1,22 @@
+|--- accuracy_percentage_per_block <= 0.36
+|   |--- response_time_per_trial_mean <= 1.57
+|   |   |--- accuracy_percentage_per_block <= -2.05
+|   |   |   |--- class: Noise
+|   |   |--- accuracy_percentage_per_block >  -2.05
+|   |   |   |--- class: Over-challenged (Hard)
+|   |--- response_time_per_trial_mean >  1.57
+|   |   |--- response_time_per_trial_mean <= 1.74
+|   |   |   |--- class: Noise
+|   |   |--- response_time_per_trial_mean >  1.74
+|   |   |   |--- class: Noise
+|--- accuracy_percentage_per_block >  0.36
+|   |--- paas_score_per_block <= -0.30
+|   |   |--- response_time_per_trial_mean <= 1.21
+|   |   |   |--- class: Under-challenged (Easy)
+|   |   |--- response_time_per_trial_mean >  1.21
+|   |   |   |--- class: Noise
+|   |--- paas_score_per_block >  -0.30
+|   |   |--- paas_score_per_block <= 1.53
+|   |   |   |--- class: Desirable Difficulty
+|   |   |--- paas_score_per_block >  1.53
+|   |   |   |--- class: Noise
